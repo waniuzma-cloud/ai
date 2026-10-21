@@ -29,4 +29,4 @@ This project is developed to provide a simple and useful solution for the given 
 
 ## Screenshots
 
-![Project Screenshot](‪beautiful-and-inspiring-picture-detailing-a-bright-hot-air-balloon-over-river-pure-cozy-perfect-for-creatives-moods-stock-image-free-photo.jpeg)
+![Project Screenshot](download.jpeg)
