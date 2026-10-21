@@ -29,4 +29,4 @@ This project is developed to provide a simple and useful solution for the given 
 
 ## Screenshots
 
-![Project Screenshot](download.jpeg)
+![Project Screenshot](download.jpg)
